@@ -16,5 +16,6 @@ body {
     text-decoration:none ;
     color: black;
     position: relative;
+    overflow: hidden;
 
 }
